@@ -1,0 +1,26 @@
+a{
+    color: #444444;
+}
+
+a :hover{
+    color: #444444;
+    text-decoration: underline;
+}
+
+.center{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.dark{
+    background-color: #444444
+}
+
+.light{
+    background-color: lightgrey;
+    color: #444444;
+}
+
+.labels{
+   display: block;
+}
